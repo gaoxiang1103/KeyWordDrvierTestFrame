@@ -1,0 +1,55 @@
+1620482284729	geckodriver	INFO	Listening on 127.0.0.1:32039
+1620482287802	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\gaoxiang\\AppData\\Local\\Temp\\rust_mozprofileKW0dFG"
+1620482332419	geckodriver	INFO	Listening on 127.0.0.1:32123
+1620482335454	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\gaoxiang\\AppData\\Local\\Temp\\rust_mozprofileSHZyxp"
+1620482335838	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1620482338046	Marionette	INFO	Listening on port 32137
+1620482338144	Marionette	WARN	TLS certificate errors will be ignored for this session
+1620483203884	Marionette	INFO	Stopped listening on port 32137
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+"--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\gaoxiang\\AppData\\Local\\Temp\\rust_mozprofileE4HcJR"
+1620482616666	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1620482618751	Marionette	INFO	Listening on port 32374
+1620482618984	Marionette	WARN	TLS certificate errors will be ignored for this session
+1620482625471	Marionette	INFO	Stopped listening on port 32374
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1620482645180	geckodriver	INFO	Listening on 127.0.0.1:32440
+1620482648258	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\gaoxiang\\AppData\\Local\\Temp\\rust_mozprofilel2nYsU"
+1620482648607	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1620482650730	Marionette	INFO	Listening on port 32453
+1620482650934	Marionette	WARN	TLS certificate errors will be ignored for this session
+1620482651592	Marionette	INFO	Stopped listening on port 32453
+console.warn: services.settings: main/cfr-fxa sync interrupted by shutdown
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1620482702575	geckodriver	INFO	Listening on 127.0.0.1:32532
+1620482705675	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\gaoxiang\\AppData\\Local\\Temp\\rust_mozprofileg2MqmR"
+1620482706080	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1620482708225	Marionette	INFO	Listening on port 32541
+1620482708357	Marionette	WARN	TLS certificate errors will be ignored for this session
+1620482709265	Marionette	INFO	Stopped listening on port 32541
+console.error: services.settings: 
+  main/cfr-fxa Signature failed  TypeError: NetworkError when attempting to fetch resource.
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1620651224731	geckodriver	INFO	Listening on 127.0.0.1:33630
+1620651227823	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\gaoxiang\\AppData\\Local\\Temp\\rust_mozprofileBBqYJA"
+1620651228525	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1620651231580	Marionette	INFO	Listening on port 33639
+1620651232057	Marionette	WARN	TLS certificate errors will be ignored for this session
+1620651232977	Marionette	INFO	Stopped listening on port 33639
+console.warn: services.settings: main/message-groups sync interrupted by shutdown
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
